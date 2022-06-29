@@ -842,7 +842,7 @@ body {
           animation-iteration-count: 3;
           */
     }
-  /*
+  
     .heading-primary--sub {
       display: block;
       font-size: 0.5rem;
@@ -875,7 +875,7 @@ body {
     }
 
 
-    /* .section-about {
+    .section-about {
       background-color: #f7f7f7;
       padding: 2rem 0;
       margin-top: 0;
@@ -886,14 +886,14 @@ body {
 
     .u-margin-bottom-big{
       margin-bottom: 2rem!important;
-    } */
+    } 
 
-    /* .row{
+    .row{
       display: flex;
       flex-direction: column;
-    } */
+    }
 
-    /* .col-1-of-2{
+    .col-1-of-2{
       width: 100%!important;
       margin-bottom: 2rem!important;
     }
@@ -901,10 +901,10 @@ body {
     .col-1-of-4{
       width: 100%!important;
       margin-bottom: 2rem!important;
-    } */
+    } 
 
 
-  /* .section-features {
+  .section-features {
     padding: 2rem;
     background-image: linear-gradient(to right bottom, rgba(126, 213, 111, 0.8), rgba(40, 180, 133, 0.8)), url(../img/nat-4.jpg);
     background-size: cover;
@@ -918,7 +918,7 @@ body {
 
   .composition__photo{
     position: relative!important;
-  } */
+  } 
 
 
 
